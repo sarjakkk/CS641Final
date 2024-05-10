@@ -1,8 +1,8 @@
 # OnlineAttendanceApp
 
-##Team 10
+## Team 10
 
-##Team Members : Sarjakkumar Kothiya,
+### Team Members : Sarjakkumar Kothiya,
                  Vaibhav Babariya, 
                  Nikunj Chavda, 
                  Vaishali Laveti, 
